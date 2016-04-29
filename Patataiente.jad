@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: AppPatata
+MIDlet-Jar-Size: 5657
+MIDlet-Jar-URL: Patataiente.jar
+Nokia-MIDlet-Category: Game
